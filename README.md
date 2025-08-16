@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm DangNam</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 📫 How to reach me **dangnamta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
